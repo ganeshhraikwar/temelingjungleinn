@@ -1,0 +1,6 @@
+{
+  "name": "Temeling Jungle Inn",
+  "description": "Explore the tropical paradise of Nusa Penida with premium island tours, fastboat bookings, and jungle shuttle transport by Temeling Jungle Inn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
